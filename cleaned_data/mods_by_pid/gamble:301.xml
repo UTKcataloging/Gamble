@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="filename">0012_003707_000301</identifier>
+   <name>
+      <namePart>Gamble, Ed</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Illustrator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Coincidences?</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text">Jacksonville (Fla.)</placeTerm>
+      </place>
+      <publisher>Florida Times-Union</publisher>
+      <dateCreated>copyright 2003</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">2003</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>10 inches by 13 inches</extent>
+      <form>cartoons (humorous images)</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre>Editorial cartoons</genre>
+   <abstract>Four coincidences are illustrated: Baseball player Sammy Sosa's corked bat; Scott Peterson's murder trial and alibi; Vice President Dick Cheney's ties to Halliburton; and Russian President Vladmir Putin's dealings with countries part of the "Axis of Evil."</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject>
+      <topic>Baseball</topic>
+   </subject>
+   <subject>
+      <topic>Trials (Murder)</topic>
+   </subject>
+   <subject>
+      <topic>International relations</topic>
+   </subject>
+   <subject>
+      <topic>Public contracts</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Cheney, Richard B.</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Putin, Vladimir Vladimirovich, 1952-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Sosa, Sammy, 1968-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Peterson, Scott, 1972-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>Russia</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.3763</identifier>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Florida Times-Union</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0012_003707_000301</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

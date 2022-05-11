@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="filename">0012_003707_000291</identifier>
+   <name>
+      <namePart>Gamble, Ed</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Illustrator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Be with you in a minute! This is taking longer than I thought!</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text">Jacksonville (Fla.)</placeTerm>
+      </place>
+      <publisher>Florida Times-Union</publisher>
+      <dateCreated>copyright 2002</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">2002</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>9 inches by 13 inches</extent>
+      <form>cartoons (humorous images)</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre>United States--Politics and government--Caricatures and cartoons</genre>
+   <abstract>President George W. Bush, dressed as a medical doctor, emerges from a door labeled "foreign affairs" while wrapped up in a giant squid's tentacles. He informs a family in the waiting room that he'll be with them in a minute.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject>
+      <topic>International relations</topic>
+   </subject>
+   <subject>
+      <topic>United States--Economic conditions--2001-2009</topic>
+   </subject>
+   <subject>
+      <topic>Unemployment</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Bush, George W. (George Walker), 1946-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.3763</identifier>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Florida Times-Union</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0012_003707_000291</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

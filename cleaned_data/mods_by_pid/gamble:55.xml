@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="filename">0012_003707_000055</identifier>
-   <name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n95039424">
       <namePart>Gamble, Ed</namePart>
       <role>
          <roleTerm type="text" authority="marcrelator">Illustrator</roleTerm>
@@ -20,7 +22,7 @@
          <placeTerm type="text">Jacksonville (Fla.)</placeTerm>
       </place>
       <publisher>Florida Times-Union</publisher>
-      <dateCreated>copyright 1982</dateCreated>
+      <copyrightDate>1982</copyrightDate>
       <dateCreated encoding="edtf" keyDate="yes">1982</dateCreated>
    </originInfo>
    <physicalDescription>

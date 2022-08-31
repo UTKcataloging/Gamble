@@ -21,32 +21,16 @@
         <xsl:value-of select="normalize-space(.)"/>
     </xsl:template>
 
-<!--
-    <xsl:template match="topic">
-        <xsl:choose>
-            <xsl:when test="ends-with(., '.')">
-                <topic>
-                    <xsl:apply-templates select="substring(., 1, string-length(.) -1)"/>
-                </topic>
-            </xsl:when>
-            <xsl:otherwise>
-                <topic>
-                    <xsl:apply-templates/>
-                </topic>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template> -->
-
-    <xsl:template match="mods/name">
-        <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n95039424">
-            <xsl:apply-templates select="@*|node()"/>
-        </name>
+    <xsl:template match="copyrightDate">
+        <dateIssued>
+            <xsl:apply-templates/>
+        </dateIssued>
     </xsl:template>
-
-    <xsl:template match="dateCreated[not(@encoding)]">
-        <copyrightDate>
-            <xsl:apply-templates select="substring(., 11, 14)"/>
-        </copyrightDate>
+    
+    <xsl:template match="dateCreated">
+        <dateIssued encoding="edtf">
+            <xsl:apply-templates/>
+        </dateIssued>
     </xsl:template>
     
     <xsl:template match='mods'>

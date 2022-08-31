@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="filename">0012_003707_000149</identifier>
+   <name>
+      <namePart>Gamble, Ed</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Illustrator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>We'll be with you in a minute!</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text">Jacksonville (Fla.)</placeTerm>
+      </place>
+      <publisher>Florida Times-Union</publisher>
+      <dateIssued encoding="edtf">copyright 1991</dateIssued>
+      <dateIssued encoding="edtf">1991</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <extent>11 inches by 15 inches</extent>
+      <form>cartoons (humorous images)</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre>International relations--Caricatures and cartoons</genre>
+   <abstract>Secretary of State James Baker holds back President George H. W. Bush as he fights with Israeli Prime Minister Yitzhak Shamir. Meanwhile, two Arab men wait at a Mid-East Peace Talks table.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject>
+      <topic>United States--Foreign relations--Middle East</topic>
+   </subject>
+   <subject>
+      <topic>United States--Foreign relations--Israel</topic>
+   </subject>
+   <subject>
+      <topic>Negotiation</topic>
+   </subject>
+   <subject>
+      <topic>Middle East Peace Conference (1991 : Madrid, Spain)</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Baker, James Addison, 1930-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Bush, George, 1924-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Shamir, Itzhak, 1915-2012</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic>Middle East</geographic>
+   </subject>
+   <subject>
+      <geographic>Israel</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.3763</identifier>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Florida Times-Union</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0012_003707_000149</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

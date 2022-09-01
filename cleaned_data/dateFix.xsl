@@ -23,7 +23,7 @@
 
     <xsl:template match="copyrightDate">
         <dateIssued>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="substring(., 11, 14)"/>
         </dateIssued>
     </xsl:template>
     

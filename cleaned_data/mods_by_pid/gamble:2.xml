@@ -22,8 +22,8 @@
          <placeTerm type="text">Nashville (Tenn.)</placeTerm>
       </place>
       <publisher>Nashville Banner</publisher>
-      <copyrightDate>1977</copyrightDate>
-      <dateCreated encoding="edtf" keyDate="yes">1977</dateCreated>
+      <dateIssued>1977</dateIssued>
+      <dateIssued encoding="edtf">1977</dateIssued>
    </originInfo>
    <physicalDescription>
       <extent>11 inches by 17 inches</extent>

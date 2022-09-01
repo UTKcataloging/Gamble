@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="filename">0012_003707_000009</identifier>
+   <name>
+      <namePart>Gamble, Ed</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Illustrator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Why of course you're in charge, sir!</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text">Nashville (Tenn.)</placeTerm>
+      </place>
+      <publisher>Nashville Banner</publisher>
+      <dateIssued encoding="edtf">copyright 1979</dateIssued>
+      <dateIssued encoding="edtf">1979</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <extent>12 inches by 16 inches</extent>
+      <form>cartoons (humorous images)</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre>World politics and government--Caricatures and cartoons</genre>
+   <abstract>An armed Iranian rebel fighter, who takes up the whole frame, holds a small Grand Ayatollah Ruhollah Khomeini in his hand. The fighter salutes the Grand Ayatollah and assures him he is in charge.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>The caption to the illustration is attached to the bottom.</note>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject>
+      <topic>Iran--History--Revolution, 1979</topic>
+   </subject>
+   <subject>
+      <topic>Islamic leadership</topic>
+   </subject>
+   <subject>
+      <topic>Iran--Politics and government--1979-1997</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Khomeini, Ruhollah</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic>Iran</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.3763</identifier>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Nashville Banner</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0012_003707_000009</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

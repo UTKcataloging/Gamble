@@ -22,8 +22,8 @@
          <placeTerm type="text">Jacksonville (Fla.)</placeTerm>
       </place>
       <publisher>Florida Times-Union</publisher>
-      <dateIssued>1992</dateIssued>
-      <dateIssued encoding="edtf">1992</dateIssued>
+      <copyrightDate>1992</copyrightDate>
+      <dateCreated encoding="edtf" keyDate="yes">1992</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>10 inches by 13.5 inches</extent>

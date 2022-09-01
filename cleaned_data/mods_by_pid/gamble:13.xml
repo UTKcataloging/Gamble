@@ -22,8 +22,8 @@
          <placeTerm type="text">Jacksonville (Fla.)</placeTerm>
       </place>
       <publisher>Florida Times-Union</publisher>
-      <dateIssued>1980</dateIssued>
-      <dateIssued encoding="edtf">1980</dateIssued>
+      <copyrightDate>1980</copyrightDate>
+      <dateCreated encoding="edtf" keyDate="yes">1980</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>11 inches by 17 inches</extent>

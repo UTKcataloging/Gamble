@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="filename">0012_003707_000206</identifier>
+   <name>
+      <namePart>Gamble, Ed</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Illustrator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Taking the Fifth Amendment!</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text">Jacksonville (Fla.)</placeTerm>
+      </place>
+      <publisher>Florida Times-Union</publisher>
+      <dateCreated>copyright 1995</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1995</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>9.5 inches by 13.5 inches</extent>
+      <form>cartoons (humorous images)</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre>Editorial cartoons</genre>
+   <abstract>A lineup displays four people who pleaded the Fifth Amendment to avoid self-incrimination while on trial: Oklahoma City bomber Timothy McVeigh, LAPD Detective Mark Fuhrman, O. J. Simpson, and the FBI in the Ruby Ridge cover-up.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject>
+      <topic>United States. Constitution. 1st-10th Amendments</topic>
+   </subject>
+   <subject>
+      <topic>Trials (Murder)</topic>
+   </subject>
+   <subject>
+      <topic>Self-incrimination</topic>
+   </subject>
+   <subject>
+      <topic>Oklahoma City Federal Building Bombing, Oklahoma City, Okla., 1995</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Simpson, O. J., 1947-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>McVeigh, Timothy</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Fuhrman, Mark</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>United States. Federal Bureau of Investigation</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic>United States</geographic>
+   </subject>
+   <subject>
+      <geographic>Los Angeles (Calif.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Oklahoma City (Okla.)</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.3763</identifier>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Florida Times-Union</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0012_003707_000206</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

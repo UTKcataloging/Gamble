@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="filename">0012_003707_000165</identifier>
+   <name>
+      <namePart>Gamble, Ed</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">Illustrator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Well, the good news is...Democracy seems to have taken hold!!</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text">Jacksonville (Fla.)</placeTerm>
+      </place>
+      <publisher>Florida Times-Union</publisher>
+      <dateCreated>copyright 1992</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1992</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>10 inches by 13 inches</extent>
+      <form>cartoons (humorous images)</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre>World politics and government--Caricatures and cartoons</genre>
+   <abstract>Two representatives from the West and IMF observe the Russian Parliament members fighting with each other and with Russian President Boris Yeltsin.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject>
+      <topic>Russia--Politics and government</topic>
+   </subject>
+   <subject>
+      <topic>Russia (Federation)--Economic policy--1991-</topic>
+   </subject>
+   <subject>
+      <topic>Russia (Federation)--History--October Crisis, 1993</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>International Monetary Fund</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Yeltsin, Boris Nikolayevich, 1931-2007</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic>Russia</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Ed Gamble Cartoon Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.3763</identifier>
+   </relatedItem>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Florida Times-Union</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0012_003707_000165</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <note displayLabel="dpn">This object was added to the Digital Preservation Network in November 2017.</note>
+</mods>

@@ -27,10 +27,18 @@
         </dateIssued>
     </xsl:template>
     
-    <xsl:template match="dateCreated">
-        <dateIssued encoding="edtf">
-            <xsl:apply-templates/>
-        </dateIssued>
+    <xsl:template match='dateCreated'>
+        <xsl:variable name="dateValue" select="normalize-space(.)"/>
+        <xsl:choose>
+            <xsl:when test="contains($dateValue, 'copyright')">
+                <dateIssued encoding="edtf"><xsl:apply-templates select="substring(., 11, 14)"/></dateIssued>
+            </xsl:when>
+            <xsl:otherwise>
+                <dateIssued>
+                    <xsl:apply-templates/>
+                </dateIssued>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match='mods'>
